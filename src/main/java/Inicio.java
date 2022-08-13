@@ -3,6 +3,8 @@ public class Inicio {
 
         System.out.println("Hola");
         System.out.println("Holas");
+        //Estoy en facturación
+        //Estoy en facturación 2
         // Estoy en contabilidad
     }
 
